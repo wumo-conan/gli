@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c1f4d05-30ee-4f12-a906-5794183c3c20" name="Default Changelist" comment="release plz">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conanfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/conanfile.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wumo &lt;wumo@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cexFvW6t3jCZh4EfNVnPBi4zMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c1f4d05-30ee-4f12-a906-5794183c3c20" name="Default Changelist" comment="" />
+      <created>1590902759201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590902759201</updated>
+      <workItem from="1590902761936" duration="1063000" />
+      <workItem from="1590903843071" duration="1457000" />
+      <workItem from="1590906346844" duration="107000" />
+    </task>
+    <task id="LOCAL-00001" summary="release plz">
+      <created>1590903555196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590903555196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="release plz">
+      <created>1590904007290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590904007290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="release plz" />
+    <option name="LAST_COMMIT_MESSAGE" value="release plz" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="248" key="CommitChangelistDialog2" timestamp="1590903541894">
+      <screen x="0" y="0" width="2492" height="1440" />
+    </state>
+    <state x="332" y="248" key="CommitChangelistDialog2/0.0.2492.1440/3840.0.2560.1440@0.0.2492.1440" timestamp="1590903541894" />
+    <state x="552" y="435" key="FileChooserDialogImpl" timestamp="1590903987213">
+      <screen x="0" y="0" width="2492" height="1440" />
+    </state>
+    <state x="552" y="435" key="FileChooserDialogImpl/0.0.2492.1440/3840.0.2560.1440@0.0.2492.1440" timestamp="1590903987213" />
+    <state x="623" y="277" key="SettingsEditor" timestamp="1590903982281">
+      <screen x="0" y="0" width="2492" height="1440" />
+    </state>
+    <state x="623" y="277" key="SettingsEditor/0.0.2492.1440/3840.0.2560.1440@0.0.2492.1440" timestamp="1590903982281" />
+    <state x="317" y="426" key="Vcs.Push.Dialog.v2" timestamp="1590904016050">
+      <screen x="0" y="0" width="2492" height="1440" />
+    </state>
+    <state x="317" y="426" key="Vcs.Push.Dialog.v2/0.0.2492.1440/3840.0.2560.1440@0.0.2492.1440" timestamp="1590904016050" />
+    <state x="542" y="635" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590903578775">
+      <screen x="0" y="0" width="2492" height="1440" />
+    </state>
+    <state x="542" y="635" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2492.1440/3840.0.2560.1440@0.0.2492.1440" timestamp="1590903578775" />
+  </component>
+</project>

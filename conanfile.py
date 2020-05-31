@@ -11,7 +11,7 @@ class GliConan(ConanFile):
     no_copy_source = True
 
     def source(self):
-        tools.get(f'{self.url}/archive/{self.version}.zip')
+        tools.get(f'{self.url}/archive/v{self.version}.zip')
 
     def package(self):
         include_folder = os.path.join(
